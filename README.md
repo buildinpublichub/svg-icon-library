@@ -1,5 +1,9 @@
 # SVG Icon Library
 
+> **版权提示**：本仓库所有图标版权归 [koboyo.com/icons](https://koboyo.com/icons) 所有。
+> 本仓库不对这些图标授予任何权利，因此不含 LICENSE 文件。使用前请先阅读 [NOTICE](NOTICE)
+> 并遵守 koboyo.com 的官方授权条款。
+
 一套按主题分类的 SVG 图标集合，共 13 万余个文件。
 
 ## 目录结构
@@ -39,3 +43,7 @@ grep -i "printer" _index.csv
 ```bash
 git clone https://github.com/buildinpublichub/svg-icon-library.git
 ```
+
+## 版权 / Copyright
+
+图标版权归 [koboyo.com/icons](https://koboyo.com/icons) 所有。详见 [NOTICE](NOTICE)。
